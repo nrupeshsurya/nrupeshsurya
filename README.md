@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 <h2> <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50"> Hi there, I am Nrupesh Surya! </h2>
 <img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="250">  
