@@ -1,6 +1,5 @@
-### Hi there 👋
 <h2> <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50"> Hi there, I am Nrupesh Surya! </h2>
-<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="230">  
+<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="250">  
 
 <!-- https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif -->
 
