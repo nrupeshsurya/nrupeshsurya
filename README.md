@@ -5,7 +5,7 @@
 
 <!-- https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif -->
 
-<p>I’m a CS+Chemistry undergrad from BITS Goa ‘22. Interested in programming and building things from scratch. Love exploring diverse fields in CS, ranging from Back-end development in Django to A* search algorithms using various heuristics. Previously interned in North Eastern Space Application Centre, Umiam (May 2019 - July 2019). Worked with the Practice School Division as a freelance backend developer (August 2019 - May 2021). I was interning at Intuit in 2021 summer where I worked in both Backend and Frontened Projects (May 2021-July 2021). Completed a thesis at BITS Pilani Goa Campus in the mHealth and Cloud Computing fields under Prof. Vinayak Naik (August 2021 - January 2021). Currently interning at Amazon!</p>
+<p>I’m a CS+Chemistry undergrad from BITS Goa ‘22. Interested in programming and building things from scratch. Love exploring diverse fields in CS, ranging from Back-end development in Django to A* search algorithms using various heuristics. </p>
 
 <h4> Work Experiences </h4>
 <ul>
