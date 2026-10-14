@@ -1,49 +1,35 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-<h2> <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50"> Hi there, I am Nrupesh Surya! </h2>
-<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="250">  
+## Hi, I'm Nrupesh 👋
 
+I'm a **Software Development Engineer II at Amazon**, working in Amazon Business in **Madrid** 🇪🇸.
 
-<!-- https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif -->
+Before Madrid I spent 3.5+ years at **Amazon Payments** in Bengaluru, building high-scale checkout and payment systems used by millions of customers. I care about system design, cutting latency, and GenAI tooling (RAG-powered tools, agents and MCP servers).
 
-<p>I’m a CS+Chemistry undergrad from BITS Goa ‘22. Interested in programming and building things from scratch. Love exploring diverse fields in CS, ranging from Back-end development in Django to A* search algorithms using various heuristics. </p>
+- 🏃 Away from work, I'm usually out running. My runs are on [my site](https://nrupeshsurya.github.io/running/) and [Strava](https://www.strava.com/athletes/49014978).
+- ✍️ I write the occasional post at [nrupeshsurya.github.io](https://nrupeshsurya.github.io).
+- 🎓 B.E. Computer Science and M.Sc. Chemistry, BITS Pilani Goa ('22).
 
-<h4> Work Experiences </h4>
-<ul>
-  <li>North Eastern Space Application Centre, Umiam (May 2019 - July 2019) : Deployed ML algorithms on a websites for Scientists using Python and Django</li>
-  <li>Practice School Division, BITS Pilani Goa Campus (August 2019 - May 2021) : Freelance Backend Developer </li>
-  <li>Intuit India, Bengaluru (May 2021 - July 2021) : SDE Intern, worked in the Monetization Services and Experiences team and completed both Backend and Frontend Projects</li>
-  <li>Undergraduate Thesis, BITS Pilani Goa Campus (August 2021 - January 2022) : mHealth and Cloud Computing fields under Prof. Vinayak Naik</li>
-  <li>Amazon India, Bengaluru (February 2022 - Present) : SDE Intern </li>
-</ul>
-  
-<p>My hobbies include photography, video editing, cycling and watching anime. Currently trying to finish 400km of cycling in a month. Current favourite anime : One Piece</p>
+### Highlights
 
-<p> Feel free to connect with me at:  
+- Led 1-step Checkout for Retail and Grocery at Amazon, cutting checkout latency by ~1s.
+- Brought multi-factor authentication page load time down from ~6s to ~100ms with full-stack prefetching.
+- Built a RAG-powered Slackbot (1000+ queries a month), and won a hackathon with an MCP server for Amazon Shopping.
 
-<!--[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)-->
-[![LinkedIn: nrupeshsurya](https://img.shields.io/badge/-nrupeshsurya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nrupeshsurya/)](https://www.linkedin.com/in/nrupeshsurya/)  
-  
-  
-<h2> GitHub Stats </h2>  
-<a href="https://github.com/nrupeshsurya/nrupeshsurya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrupeshsurya&hide=jupyter%20notebook,tex&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
-  
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrupeshsurya&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>  
+### Tech I work with
 
-<!--
-**nrupeshsurya/nrupeshsurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 
-Here are some ideas to get you started:
+### Find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/nrupeshsurya.github.io-111?style=flat-square&logo=astro&logoColor=white)](https://nrupeshsurya.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/nrupeshsurya/)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white)](https://www.strava.com/athletes/49014978)
+[![X](https://img.shields.io/badge/@NrupeshSurya-000?style=flat-square&logo=x&logoColor=white)](https://x.com/NrupeshSurya)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nrupeshsurya@gmail.com)
